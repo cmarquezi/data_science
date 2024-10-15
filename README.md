@@ -10,9 +10,15 @@ Meu portfólio de projetos em Data Science
 # Cristian Marquezi
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Sou o Cristian, Engenheiro Sanitarista e Ambiental, pela UFSC. 
+Trabalho atualmente em uma companhia de saneamento básico, com cadastro de ativos com QGIS, modelagem hidráulica e analises de dados. 
+Sou um entusiasta da tecnologia, principalmente, aquelas que são open-source, bem como geotecnologias aplicadas ao meio ambiente. 
+Acredito que o uso de tecnologia como o Python, como ferramenta para analise de dados e machine learning, é possível abstrair diversos insights no setor do saneamento, como redução de perdas, aumento da eficiência energética entre outros.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+I'm Cristian, a Sanitary and Environmental Engineer from UFSC.
+I currently work at a basic sanitation company, with asset registration with QGIS, hydraulic modeling and data analysis.
+I'm a technology enthusiast, especially those that are open-source, as well as geotechnologies applied to the environment.
+I believe that the use of technology such as Python, as a tool for data analysis and machine learning, makes it possible to abstract several insights in the sanitation sector, such as reducing losses, increasing energy efficiency, among others.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
