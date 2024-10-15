@@ -29,9 +29,6 @@ I believe that the use of technology such as Python, as a tool for data analysis
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
-
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
 * **Projeto de Aprendizado do Sigmoidal:** https://bit.ly/4h96bNW
 
