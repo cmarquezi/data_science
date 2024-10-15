@@ -20,7 +20,7 @@ I currently work at a basic sanitation company, with asset registration with QGI
 I'm a technology enthusiast, especially those that are open-source, as well as geotechnologies applied to the environment.
 I believe that the use of technology such as Python, as a tool for data analysis and machine learning, makes it possible to abstract several insights in the sanitation sector, such as reducing losses, increasing energy efficiency, among others.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, QIS, Machine Learning.
 
 **Links:**
 * [Blog](https://sigmoidal.ai)
