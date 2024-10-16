@@ -15,15 +15,10 @@ Trabalho atualmente em uma companhia de saneamento básico, com cadastro de ativ
 Sou um entusiasta da tecnologia, principalmente, aquelas que são open-source, bem como geotecnologias aplicadas ao meio ambiente. 
 Acredito que o uso de tecnologia como o Python, como ferramenta para analise de dados e machine learning, é possível abstrair diversos insights no setor do saneamento, como redução de perdas, aumento da eficiência energética entre outros.
 
-I'm Cristian, a Sanitary and Environmental Engineer from UFSC.
-I currently work at a basic sanitation company, with asset registration with QGIS, hydraulic modeling and data analysis.
-I'm a technology enthusiast, especially those that are open-source, as well as geotechnologies applied to the environment.
-I believe that the use of technology such as Python, as a tool for data analysis and machine learning, makes it possible to abstract several insights in the sanitation sector, such as reducing losses, increasing energy efficiency, among others.
-
 **Background in:** Python, QIS, Machine Learning.
 
 **Links:**
-* [Blog](https://sigmoidal.ai)
+
 * [LinkedIn](www.linkedin.com/in/cristian-marquezi)
 * [Medium](https://www.medium.com)
 
