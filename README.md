@@ -8,7 +8,7 @@ Meu portfólio de projetos em Data Science
 </p>
 
 # Cristian Marquezi
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Projeto primeiro</sub>
 
 Sou o Cristian, Engenheiro Sanitarista e Ambiental, pela UFSC. 
 Trabalho atualmente em uma companhia de saneamento básico, com cadastro de ativos com QGIS, modelagem hidráulica e analises de dados. 
