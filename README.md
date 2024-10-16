@@ -20,7 +20,8 @@ Acredito que o uso de tecnologia como o Python, como ferramenta para analise de 
 **Links:**
 
 * [LinkedIn](www.linkedin.com/in/cristian-marquezi)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@cristianmarquezi)
+* [Instagran](https://www.instagram.com/cristianmarquezi/)
 
 
 ## Projetos:
